@@ -12,7 +12,7 @@ def Bill(a,b):
 	  ab.append(randint(0,b))
   return ab
 
-list_A=Bill(x,y)
+list_A = Bill(x,y)
 
 
 print(list_A)
