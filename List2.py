@@ -1,8 +1,8 @@
 import random
 a=(random.randint(0,10))
-print ("a=",a)
+print("a=",a)
 b=(random.randint(0,10))
-print ("b=",b)
+print("b=",b)
 c=(random.randint(0,10))
 if a>b:
   print("Good boy")
